@@ -1,0 +1,18 @@
+{
+    "active_nuclear_states": 9,
+    "threat_level": 8,
+    "global_tension_index": 7.5,
+    "conflict_count": 5,
+    "global_temp_anomaly": 13.6,
+    "sea_level_rise_rate": 3.2,
+    "bio_threat_level": 7,
+    "pandemic_preparedness_score": 6.5,
+    "ai_threat_level": 8,
+    "alignment_progress": 5,
+    "sources": {
+        "nuclear": "Calculated based on the number of active nuclear states, their threat level and global conflict count",
+        "climate": "Open-Meteo API (https://api.open-meteo.com)",
+        "biological": "The GHS Index (https://www.ghsindex.org)",
+        "ai": "The Stanford AI Index (https://index.stanford.edu)"
+    }
+}
